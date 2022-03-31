@@ -1,9 +1,9 @@
-These are all of the 6kyu's I've solved as well as my solutions
+These are all of the 7kyu's I've solved as well as my solutions
 
-Highest Scoring Word
-    -[solution](./6kyujs/highest-scoring-word.js)
-    -[tests](./6kyujs/highest-scoring-word.test)
-    -[other-solutions](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/solutions/javascript/all/best_practice)
+-Highest Scoring Word
+    -![solution](./6kyujs/highest-scoring-word.js)
+    -![tests](./6kyujs/highest-scoring-word.test)
+    -![other-solutions](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/solutions/javascript/all/best_practice)
     #Rules:
 
         #Given a string of words, you need to find the highest scoring word.
