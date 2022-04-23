@@ -210,4 +210,18 @@ Please keep in mind that the test cases ensure that the number of people in the 
 The second value in the first integer array is 0, since the bus is empty in the first bus stop.
 #
 #
+Descending Order
+-[solution](./7kyujs/descending-order.js)
+-[tests](./7kyujs/descending-order.test)
+-[other-solutions](https://www.codewars.com/kata/5467e4d82edf8bbf40000155/solutions/javascript)
+
+                        #Rules:
+
+#Your task is to make a function that can take any non-negative integer as an argument and return it with its digits in descending order. Essentially, rearrange the digits to create the highest possible number.
+Examples:
+Input: 42145 Output: 54421
+Input: 145263 Output: 654321
+Input: 123456789 Output: 987654321
+#
+#
 
