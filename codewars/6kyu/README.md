@@ -25,14 +25,20 @@ For example (Input --> Output):
 4 --> 0 (because 4 is already a one-digit number)
 #
 #
-Persistent Bugger: 
--[solution](./6kyujs/count-char-in-string.js)
--[tests](./6kyujs/count-char-in-string.test)
--[other-solutions](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/solutions/javascript)
+Who Likes It: 
+-[solution](./6kyujs/who-likes.js)
+-[tests](./6kyujs/who-likes.test)
+-[other-solutions](https://www.codewars.com/kata/5266876b8f4bf2da9b000362/solutions/javascript)
                         
                         #Rules: 
                         
-#The main idea is to count all the occurring characters in a string. If you have a string like aba, then the result should be {'a': 2, 'b': 1}.
-What if the string is empty? Then the result should be empty object literal, {}.
+#You probably know the "like" system from Facebook and other pages. People can "like" blog posts, pictures or other items. We want to create the text that should be displayed next to such an item.
+Implement the function which takes an array containing the names of people that like an item. It must return the display text as shown in the examples:
+[]                                -->  "no one likes this"
+["Peter"]                         -->  "Peter likes this"
+["Jacob", "Alex"]                 -->  "Jacob and Alex like this"
+["Max", "John", "Mark"]           -->  "Max, John and Mark like this"
+["Alex", "Jacob", "Mark", "Max"]  -->  "Alex, Jacob and 2 others like this"
+Note: For 4 or more names, the number in "and 2 others" simply increases.
 #
 #
