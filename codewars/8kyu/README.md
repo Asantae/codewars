@@ -113,3 +113,24 @@ Twice as Old
 current father's age (years)
 current age of his son (years)
 Сalculate how many years ago the father was twice as old as his son (or in how many years he will be twice as old).
+#
+#
+Is the String Uppercase
+-[solution](./8kyujs/string-uppercase.js)
+-[tests](./8kyujs/string-uppercase.test)
+-[other-solutions](https://www.codewars.com/kata/56cd44e1aa4ac7879200010b/solutions/javascript)
+                       
+                        #Rules:
+
+#Create a method to see whether the string is ALL CAPS.
+Examples (input -> output)
+"c" -> False
+"C" -> True
+"hello I AM DONALD" -> False
+"HELLO I AM DONALD" -> True
+"ACSKLDFJSgSKLDFJSKLDFJ" -> False
+"ACSKLDFJSGSKLDFJSKLDFJ" -> True
+In this Kata, a string is said to be in ALL CAPS whenever it does not contain any lowercase letter so any string containing no letters at all is trivially considered to be in ALL CAPS.
+#
+#
+
