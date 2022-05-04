@@ -90,3 +90,15 @@ n = 1  ==> [1, 2]     # [2^0, 2^1]
 n = 2  ==> [1, 2, 4]  # [2^0, 2^1, 2^2]
 #
 #
+Sort and Star
+-[solution](./8kyujs/sort-and-star.js)
+-[tests](./8kyujs/sort-and-star.test)
+-[other-solutions](https://www.codewars.com/kata/57cfdf34902f6ba3d300001e/solutions/javascript)
+                       
+                        #Rules:
+
+#You will be given a vector of strings. You must sort it alphabetically (case-sensitive, and based on the ASCII values of the chars) and then return the first value.
+The returned value must be a string, and have "***" between each of its letters.
+You should not remove or add elements from/to the array.
+#
+#
