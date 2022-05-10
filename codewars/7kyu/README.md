@@ -115,4 +115,18 @@ For example, when an array is passed like [19, 5, 42, 2, 77], the output should 
 [10, 343445353, 3453445, 3453545353453] should return 3453455.
 #
 #
+Isograms
+-[solution](./7kyujs/isograms.js)
+-[tests](./7kyujs/isograms.test)
+-[other-solutions](https://www.codewars.com/kata/54ba84be607a92aa900000f1/solutions/javascript/all/best_practice)
+
+                        #Rules:
+
+#An isogram is a word that has no repeating letters, consecutive or non-consecutive. Implement a function that determines whether a string that contains only letters is an isogram. Assume the empty string is an isogram. Ignore letter case.
+Example: (Input --> Output)
+"Dermatoglyphics" --> true
+"aba" --> false
+"moOse" --> false (ignore letter case)
+#
+#
 
