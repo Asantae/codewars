@@ -90,3 +90,16 @@ Testing: [1, 0, 1, 1] ==> 11
 However, the arrays can have varying lengths, not just limited to 4.
 #
 #
+String Ends With
+-[solution](./7kyujs/string-ends.js)
+-[tests](./7kyujs/string-ends.test)
+-[other-solutions](https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d/solutions/javascript)
+
+                        #Rules:
+
+#Complete the solution so that it returns true if the first argument(string) passed in ends with the 2nd argument (also a string).
+Examples:
+solution('abc', 'bc') // returns true
+solution('abc', 'd') // returns false
+#
+#
