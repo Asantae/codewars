@@ -14,7 +14,7 @@ Vowel Count
 Complementary DNA
 -[solution](./7kyujs/complementary-DNA.js)
 -[tests](./7kyujs/complementary-DNA.test)
--[other-solutions](https://www.codewars.com/kata/54ff3102c1bad923760001f3/solutions/javascript)
+-[other-solutions](https://www.codewars.com/kata/554e4a2f232cdd87d9000038/solutions/javascript)
 
                         #Rules:
 
@@ -27,8 +27,8 @@ Example: (input --> output)
 "GTAT" --> "CATA"
 #
 #
-Complementary DNA
--[solution](./7kyujs/testing123.js)
+Testing 1-2-3
+-[solution](./7kyujs/testing-123.js)
 -[tests](./7kyujs/testing-123.test)
 -[other-solutions](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9/solutions/javascript)
 
@@ -40,5 +40,18 @@ The numbering starts at 1. The format is n: string. Notice the colon and space i
 Examples:
 number([]) // => []
 number(["a", "b", "c"]) // => ["1: a", "2: b", "3: c"]
+#
+#
+Reverse Words
+-[solution](./7kyujs/reverse-words.js)
+-[tests](./7kyujs/reverse-words.test)
+-[other-solutions](https://www.codewars.com/kata/5259b20d6021e9e14c0010d4/solutions/javascript)
+
+                        #Rules:
+
+#Complete the function that accepts a string parameter, and reverses each word in the string. All spaces in the string should be retained.
+Examples:
+"This is an example!" ==> "sihT si na !elpmaxe"
+"double  spaces" ==> "elbuod  secaps"
 #
 #
