@@ -25,3 +25,14 @@ For example (Input --> Output):
 4 --> 0 (because 4 is already a one-digit number)
 #
 #
+Persistent Bugger: 
+-[solution](./6kyujs/count-char-in-string.js)
+-[tests](./6kyujs/count-char-in-string.test)
+-[other-solutions](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec/solutions/javascript)
+                        
+                        #Rules: 
+                        
+#The main idea is to count all the occurring characters in a string. If you have a string like aba, then the result should be {'a': 2, 'b': 1}.
+What if the string is empty? Then the result should be empty object literal, {}.
+#
+#
