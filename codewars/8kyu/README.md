@@ -30,16 +30,19 @@ Examples
 "-7" --> -7
 #
 #
-String to Number
--[solution](./8kyujs/string-to-number.js)
--[tests](./8kyujs/string-to-number.test)
--[other-solutions](https://www.codewars.com/kata/544675c6f971f7399a000e79/solutions/javascript)
+Fast Double
+-[solution](./8kyujs/fast-double.js)
+-[tests](./8kyujs/fast-double.test)
+-[other-solutions](codewars.com/kata/53ee5429ba190077850011d4/solutions/javascript)
                         #Rules:
 
-#We need a function that can transform a string into a number. What ways of achieving this do you know?
-Note: Don't worry, all inputs will be strings, and every string is a perfectly valid representation of an integral number.
-Examples
-"1234" --> 1234
-"605"  --> 605
-"1405" --> 1405
-"-7" --> -7
+#Code as fast as you can! You need to double the integer and return it.
+#
+#
+Fast Double
+-[solution](./8kyujs/fast-double.js)
+-[tests](./8kyujs/fast-double.test)
+-[other-solutions](codewars.com/kata/53ee5429ba190077850011d4/solutions/javascript)
+                        #Rules:
+
+#Code as fast as you can! You need to double the integer and return it.
