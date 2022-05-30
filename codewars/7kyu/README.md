@@ -1,17 +1,11 @@
 These are all of the 7kyu's I've solved as well as my solutions
+#
+#
+Vowel Count
+    -![solution](./7kyujs/vowel-count.js)
+    -![tests](./7kyujs/vowel-count.test)
+    -![other-solutions](https://www.codewars.com/kata/54ff3102c1bad923760001f3/solutions/javascript)
 
--Highest Scoring Word
-    -![solution](./6kyujs/highest-scoring-word.js)
-    -![tests](./6kyujs/highest-scoring-word.test)
-    -![other-solutions](https://www.codewars.com/kata/57eb8fcdf670e99d9b000272/solutions/javascript/all/best_practice)
-    #Rules:
+                        #Rules:
 
-        #Given a string of words, you need to find the highest scoring word.
-
-        #Each letter of a word scores points according to its position in the alphabet: a = 1, b = 2, c = 3 etc.
-
-        #You need to return the highest scoring word as a string.
-
-        #If two words score the same, return the word that appears earliest in the original string.
-
-        #All letters will be lowercase and all inputs will be valid.
+#Return the number (count) of vowels in the given string. We will consider a, e, i, o, u as vowels for this Kata (but not y). The input string will only consist of lower case letters and/or #spaces.
