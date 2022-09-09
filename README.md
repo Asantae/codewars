@@ -8,3 +8,4 @@
 [6kyu's](./6kyu/6kyu.md)
 [7kyu's](./7kyu/7kyu.md)
 [8kyu's](./8kyu/8kyu.md)
+[Other-Challenges](./other-challenges/challenges.md)
