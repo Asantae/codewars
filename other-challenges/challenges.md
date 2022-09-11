@@ -90,3 +90,27 @@ Lonely Integer
                         #Rules:
 
 -[rules1](/assets/lonely-integer.png)
+#
+#
+Diagnal Difference
+-[solution](./other-hallenges/diagnal-difference.js)
+-[tests](none)
+-[other-solutions](none)
+                      
+                        #Rules:
+
+-[rules1](/assets/diagnal-difference1)
+-[rules2](/assets/diagnal-difference2)
+-[rules3](/assets/diagnal-difference3)
+#
+#
+Counting Sort 1
+-[solution](./other-hallenges/counting-sort-one.js)
+-[tests](none)
+-[other-solutions](none)
+                      
+                        #Rules:
+
+-[rules1](/assets/counting-sort-one1)
+-[rules2](/assets/counting-sort-one2)
+-[rules3](/assets/counting-sort-one3)
