@@ -2,7 +2,7 @@ These are non-codewars challenges of varying difficulty.
 #
 #
 Plus Minus
--[solution](./OtherChallenges/plus-minus.js)
+-[solution](/other-challenges/plus-minus.js)
 -[tests](none)
 -[other-solutions](none)
                       
@@ -61,7 +61,7 @@ The proportions of occurrence are positive:3/6 = 0.500000, negative: 2/6 = 0.333
 #
 #
 Min-Max Sum
--[solution](./other-hallenges/min-max-sum.js)
+-[solution](/other-challenges/min-max-sum.js)
 -[tests](none)
 -[other-solutions](none)
                       
@@ -72,7 +72,7 @@ Min-Max Sum
 #
 #
 Min-Max Sum
--[solution](./other-hallenges/time-conversion.js)
+-[solution](/other-challenges/time-conversion.js)
 -[tests](none)
 -[other-solutions](none)
                       
@@ -83,7 +83,7 @@ Min-Max Sum
 #
 #
 Lonely Integer
--[solution](./other-hallenges/lonely-integer.js)
+-[solution](/other-challenges/lonely-integer.js)
 -[tests](none)
 -[other-solutions](none)
                       
@@ -93,24 +93,24 @@ Lonely Integer
 #
 #
 Diagnal Difference
--[solution](./other-hallenges/diagnal-difference.js)
+-[solution](/other-challenges/diagnal-difference.js)
 -[tests](none)
 -[other-solutions](none)
                       
                         #Rules:
 
--[rules1](/assets/diagnal-difference1)
--[rules2](/assets/diagnal-difference2)
--[rules3](/assets/diagnal-difference3)
+-[rules1](/assets/diagnal-difference1.png)
+-[rules2](/assets/diagnal-difference2.png)
+-[rules3](/assets/diagnal-difference3.png)
 #
 #
 Counting Sort 1
--[solution](./other-hallenges/counting-sort-one.js)
+-[solution](/other-challenges/counting-sort-one.js)
 -[tests](none)
 -[other-solutions](none)
                       
                         #Rules:
 
--[rules1](/assets/counting-sort-one1)
--[rules2](/assets/counting-sort-one2)
--[rules3](/assets/counting-sort-one3)
+-[rules1](/assets/counting-sort-one1.png)
+-[rules2](/assets/counting-sort-one2.png)
+-[rules3](/assets/counting-sort-one3.png)
