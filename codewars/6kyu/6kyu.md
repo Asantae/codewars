@@ -42,3 +42,17 @@ Implement the function which takes an array containing the names of people that 
 Note: For 4 or more names, the number in "and 2 others" simply increases.
 #
 #
+Breaking camelCase: 
+-[solution](./6kyujs/breaking-camel-case.js)
+-[tests](./6kyujs/breaking-camel-case.test)
+-[other-solutions](https://www.codewars.com/kata/5208f99aee097e6552000148/solutions/javascript)
+                        
+                        #Rules: 
+                        
+#Complete the solution so that the function will break up camel casing, using a space between words.
+Example
+"camelCasing"  =>  "camel Casing"
+"identifier"   =>  "identifier"
+""             =>  ""
+#
+#
