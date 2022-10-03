@@ -133,4 +133,13 @@ Examples (input -> output)
 In this Kata, a string is said to be in ALL CAPS whenever it does not contain any lowercase letter so any string containing no letters at all is trivially considered to be in ALL CAPS.
 #
 #
+Even or odd
+-[solution](./8kyujs/even-odd.js)
+-[tests](./8kyujs/even-odd.test)
+-[other-solutions](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/solutions/javascript)
+                       
+                        #Rules:
 
+#Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+#
+#
